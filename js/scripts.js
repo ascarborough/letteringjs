@@ -1,2 +1,2 @@
 // Scripts
-$('h1').lettering('words');
+$('h1').lettering();
