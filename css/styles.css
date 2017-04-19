@@ -3,9 +3,10 @@ body {
     background: lightcoral;
 }
 
-h1 span:nth-child(even){
-    color:limegreen;
+h1 {
+  color: cornflowerblue; 
 }
-span.word5{
-    color:purple;
+
+span:nth-child(odd) {
+  color: violet;
 }
