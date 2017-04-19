@@ -1,4 +1,11 @@
 /* Styling */
 body {
-    background: rgba(0, 240, 194, 0.71);
+    background: lightcoral;
+}
+
+h1 span:nth-child(even){
+    color:limegreen;
+}
+span.word5{
+    color:purple;
 }
