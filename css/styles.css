@@ -5,6 +5,7 @@ body {
 
 h1 {
   color: cornflowerblue; 
+  font-size: 4em;
 }
 
 span:nth-child(odd) {
