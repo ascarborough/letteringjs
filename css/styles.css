@@ -1,6 +1,6 @@
 /* Styling */
 body {
-    background: darkseagreen;
+    background: lavender;
 }
 
 h1 {
@@ -10,4 +10,5 @@ h1 {
 
 span:nth-child(odd) {
   color: violet;
+  font-size: 1.5em;
 }
